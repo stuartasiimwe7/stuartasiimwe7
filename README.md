@@ -29,21 +29,6 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stuartasiimwe7)  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
-<a href="https://twitter.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartasiimwe" height="30" width="40" /></a>
-<a href="https://kaggle.com/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stuartasiimwe" height="30" width="40" /></a>
-<a href="https://fb.com/stuartasiimwe.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stuartasiimwe.io" height="30" width="40" /></a>
-<a href="https://instagram.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
-<a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Programming Languages</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -91,21 +76,24 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartasiimwe7&show_icons=true&locale=en&layout=compact" alt="stuartasiimwe7" /></p>
+- NOTE: The stats aside are github generated and do not in any way indicate level of profficiency but rather available project's frequency
 
-- ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
+<p></p>
+⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
 ~ C.A.R. Hoare
 
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-
-<!--
-THE FIRST AND OLD PROFILE - WORKS FINE TOO
-
-## Hullo 👋, my name is Stuart Asiimwe
-### Software Engineer | ML/AI Enthusiast
-![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
-
-<--
-
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
+<a href="https://twitter.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartasiimwe" height="30" width="40" /></a>
+<a href="https://kaggle.com/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stuartasiimwe" height="30" width="40" /></a>
+<a href="https://fb.com/stuartasiimwe.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stuartasiimwe.io" height="30" width="40" /></a>
+<a href="https://instagram.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
+<a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
+</p>
