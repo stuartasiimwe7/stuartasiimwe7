@@ -4,8 +4,21 @@
 
 I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
 
-### Skills: 
-#### C, JAVA, C++, Python, REACT / JS / HTML / CSS
+### Languages 
+<img width ="25px" src = "https://github.com/aishikbiswas/programming-svg-icons/blob/main/projects/programming-svg-icons/icons/java.svg"/>  | <img width = 25px src ="https://github.com/heltonricardo/programming-language-icons/blob/master/svg-files/c.svg"/>  | <img width = "25px" src = "https://github.com/heltonricardo/programming-language-icons/blob/master/svg-files/cpp.svg" />  | <img width = "25px" src = "https://github.com/aishikbiswas/programming-svg-icons/blob/main/projects/programming-svg-icons/icons/python.svg" /> | <img width="25px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+
+### Frameworks
+<img width="25px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+
+JAVA, C++, Python, REACT / JS / HTML / CSS
+
+### Tools
+<img width="25px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" /> <img width="25px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
+
+### OS
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" />
+
+
 
 - 🔭 I’m currently working on Dosage Error Reduction System
 - 🌱 I’m currently learning how to use Docker to achieve consistency across development and release cycles.
