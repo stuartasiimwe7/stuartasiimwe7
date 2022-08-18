@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Stuart Asiimwe
+#### Software Engineer | ML/AI Enthusiast
+![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
+
+I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
+
+Skills: C, JAVA, C++, Python, REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
 
 <!--
-**stuartasiimwe7/stuartasiimwe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartasiimwe7)](https://github.com/anuraghazra/github-readme-stats)
+
+![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartasiimwe7&hide=contribs,prs)
