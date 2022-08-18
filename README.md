@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Stuart Asiimwe</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast</h3>
+<h1 align="center">Hullo there 👋, You're welcome to the temple of innovation</h1>
+<h3 align="center">Now you are on Holy Ground!</h3>
 
 ![Profile views](https://gpvc.arturio.dev/stuartasiimwe7)
+<h1>I'm Stuart Asiimwe</h1>
+
+### Software Engineer | ML/AI Enthusiast
+![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
 
 <p align="left"> <a href="https://twitter.com/stuartasiimwe7" target="blank"><img src="https://img.shields.io/twitter/follow/stuartasiimwe7?logo=twitter&style=for-the-badge" alt="stuartasiimwe7" /></a> </p>
 
@@ -13,15 +17,15 @@
 
 - 👨‍💻 All of my projects are available at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
-
-- 💬 Ask me about **AI for Healthcare**
+- 📝 I regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
 
 - 📫 How to reach me **stuartasiimwe7@naver.com**
 
 - 📄 Know about my experiences [www.stuartasiim.web.app](www.stuartasiim.web.app)
 
-- ⚡ Fun fact **The first computer bug was an actual bug**
+- ⚡ Fun fact: **The first computer bug was an actual bug**
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stuartasiimwe7)  
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -50,6 +54,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartasiimwe7&show_icons=true&locale=en&layout=compact" alt="stuartasiimwe7" /></p>
+
+
+
+
+
+
+- ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
+~ C.A.R. Hoare
 
 
 
