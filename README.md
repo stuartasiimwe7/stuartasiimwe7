@@ -4,7 +4,7 @@
 
 I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
 
-Skills: C, JAVA, C++, Python, REACT / JS / HTML / CSS
+### Skills: C, JAVA, C++, Python, REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Dosage Error Reduction System
 - 🌱 I’m currently learning how to use Docker to achieve consistency across development and release cycles.
