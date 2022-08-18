@@ -1,5 +1,5 @@
-### Hullo 👋, my name is Stuart Asiimwe
-#### Software Engineer | ML/AI Enthusiast
+## Hullo 👋, my name is Stuart Asiimwe
+### Software Engineer | ML/AI Enthusiast
 ![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
 
 I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
