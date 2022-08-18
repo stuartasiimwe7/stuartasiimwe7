@@ -3,24 +3,31 @@
 ![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
 
 I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
+skills 
+![Skills: C, JAVA, C++, Python, REACT / JS / HTML / CSS]
 
-Skills: C, JAVA, C++, Python, REACT / JS / HTML / CSS
+- 🔭 I’m currently working on Signal Processing 
 
-- 🔭 I’m currently working on this page. 
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartasiimwe7)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on Dosage Error Reduction System
+- 🌱 I’m currently learning using Docker to achieve consistency across development and release cycles.
+- 👯 I’m looking to collaborate on Fine tuning AI models & code optimisation for Healthcare
 
 ![Stuart's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuartasiimwe7&hide=contribs,prs)
+
+- ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
+~ C.A.R. Hoare
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stuartasiimwe7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stuartasiimwe.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stuartasiimwe7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/stuartasiimwe7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.stuartasiimwe7.github.io)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=stuartasiimwe7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartasiimwe7)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stuartasiimwe7)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stuartasiimwe7)  
+
+![Profile views](https://gpvc.arturio.dev/stuartasiimwe7)  
