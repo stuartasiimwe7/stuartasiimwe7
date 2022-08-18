@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Stuart Asiimwe
+### Hullo 👋, my name is Stuart Asiimwe
 #### Software Engineer | ML/AI Enthusiast
 ![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
 
