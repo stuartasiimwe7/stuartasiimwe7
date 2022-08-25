@@ -99,6 +99,5 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 <a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartasiimwe7&show_icons=true&locale=en&layout=compact" alt="stuartasiimwe7" />
 
 - NOTE: The stats aside are github generated and do not in any way indicate level of profficiency but rather available project's frequency
