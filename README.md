@@ -90,4 +90,4 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartasiimwe7&show_icons=true&locale=en&layout=compact" alt="stuartasiimwe7" />
 
-- NOTE: The stats aside are github generated and do not in any way indicate level of profficiency but rather available project's frequency
+- NOTE: The stats aside are Github generated and do not in any way reflect the level of proficiency of the User in the Programming Languages or their Expertise.
