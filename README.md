@@ -89,5 +89,5 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuartasiimwe7&show_icons=true&locale=en&layout=compact" alt="stuartasiimwe7" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - NOTE: The stats aside are Github generated and do not in any way reflect the level of proficiency of the User in the Programming Languages or their Expertise.
