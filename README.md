@@ -13,7 +13,7 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 
 - 🔭 I’m currently working on [Towards Interpretable ML Models](https://github.com/stuartasiimwe7/SHAP-Based-Feature-Selection-in-Ensemble-Classifiers)
 
-- 👯 I’m looking to collaborate on **Fine Tuning AI Models models & Code optimization for Healthcare**
+- 👯 I’m looking to collaborate on **Fine Tuning ML Models models & Code optimization for Healthcare**
 
 - 👨‍💻 All of my projects are available at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io)
 
