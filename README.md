@@ -1,7 +1,6 @@
 <h1 align="center">Hullo there 👋, You're welcome</h1>
 <h3 align="center">Now, you are on Holy Ground!</h3>
 
-![Profile views](https://gpvc.arturio.dev/stuartasiimwe7)
 <h1>I'm Stuart Asiimwe</h1>
 
 ### Software Engineer | ML/AI Enthusiast
