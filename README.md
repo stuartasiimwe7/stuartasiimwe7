@@ -24,7 +24,7 @@ I am a Performance-driven and results oriented Software Engineer, offering a pro
 
 - ⚡ Fun fact: **The first computer bug was an actual bug**
 
- 
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stuartasiimwe7)
 
 <p>
 ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
