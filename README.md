@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/stuartasiimwe7" target="blank"><img src="https://img.shields.io/twitter/follow/stuartasiimwe7?logo=twitter&style=for-the-badge" alt="stuartasiimwe7" /></a> </p>
 
-I am a Performance-driven and results oriented Software Engineer, offering a pro-active approach and determination to successfully finish all goals and objectives within budget and schedule.
+I am a Performance-driven and results oriented Software Engineer, with a determination to successfully finish all goals and objectives within budget and schedule.
 
-- 🔭 I’m currently working on [Towards Interpretable ML Models](https://github.com/stuartasiimwe7/SHAP-Based-Feature-Selection-in-Ensemble-Classifiers)
+- 🔭 I’m currently working on [Towards Interpretable ML Models (xAI)](https://github.com/stuartasiimwe7/SHAP-Based-Feature-Selection-in-Ensemble-Classifiers)
 
-- 👯 I’m looking to collaborate on **Fine Tuning ML Models models & Code optimization for Healthcare**
+- 👯 I’m looking to collaborate on **Fine Tuning ML Models models & Code optimization**
 
 - 👨‍💻 All of my projects are available at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io)
 
-- 📝 I regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
+- 📝 I plan to regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
 
 - 📫 How to reach me **stuartasiimwe7@naver.com**
 
