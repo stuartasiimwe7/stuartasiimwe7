@@ -79,6 +79,6 @@ I am a Performance-driven and results oriented Software Engineer, with a determi
 <a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartasiimwe7&layout=compact)
+
 
 - NOTE: The stats aside are Github generated and do not in any way reflect the level of proficiency of the User in the Programming Languages or their Expertise.
