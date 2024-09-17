@@ -72,8 +72,6 @@ I am a Performance-driven and results oriented Software Engineer, with a determi
 <a href="https://twitter.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartasiimwe" height="30" width="40" /></a>
 <a href="https://kaggle.com/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stuartasiimwe" height="30" width="40" /></a>
-<a href="https://fb.com/stuartasiimwe.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stuartasiimwe.io" height="30" width="40" /></a>
-<a href="https://instagram.com/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
 <a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
 </p>
 
