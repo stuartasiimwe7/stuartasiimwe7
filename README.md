@@ -18,8 +18,6 @@ I am a Performance-driven and results oriented Software Engineer, with a determi
 
 - 📝 I plan to regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
 
-- 📫 How to reach me **stuartasiimwe7@naver.com**
-
 - 📄 Know about my experiences [www.stuartasiim.web.app](www.stuartasiim.web.app)
 
 - ⚡ Fun fact: **The first computer bug was an actual bug**
