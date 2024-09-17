@@ -79,4 +79,4 @@ I am a Performance-driven and results oriented Software Engineer, with a determi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartasiimwe7&layout=compact)
 
-- NOTE: The stats aside are Github generated and do not in any way reflect the level of proficiency of the User in the Programming Languages or their Expertise.
+- NOTE: The stats above are auto-estimates and do not in any way reflect the level of proficiency of the User in the Programming Languages or their Expertise.
