@@ -21,13 +21,6 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 - ⚡ Fun fact: **The first computer bug was an actual bug**
 
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=stuartasiimwe7)
-
-<p>
-⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
-~ C.A.R. Hoare
-</p>
-
 
 # SKILL SET
 <h3 align="left">Programming Languages</h3>
@@ -80,3 +73,7 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 </p>
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on exciting projects. Cheers!
+<p>
+⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
+~ C.A.R. Hoare
+</p>
