@@ -77,7 +77,9 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
-
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stuartasiimwe7&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
