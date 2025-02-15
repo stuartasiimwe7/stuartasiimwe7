@@ -20,8 +20,8 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 
 - ⚡ Fun fact: **The first computer bug was an actual bug**
-
-
+<!-- Coloured Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></br></br>
 # SKILL SET
 <h3 align="left">Programming Languages</h3>
 
@@ -77,18 +77,16 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
-#graph
+
+<!-- Coloured Line -->
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"></br></br>
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stuartasiimwe7&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
-##more stats
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=stuartasiimwe7&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@stuart's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stuartasiimwe7j&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@stuartasiimwe7's github-readme-streak-stats"/>
-
-  <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartasiimwe7&layout=donut&hide_border=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=stuartasiimwe7&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@goldenfinix's trophy stats"/>
-</p>
+<br>
+<!-- Coloured Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
