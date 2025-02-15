@@ -77,9 +77,19 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
 </div>
+#graph
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stuartasiimwe7&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
+##more stats
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=stuartasiimwe7&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@stuart's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=stuartasiimwe7j&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@stuartasiimwe7's github-readme-streak-stats"/>
+
+  <img width='50%' height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuartasiimwe7&layout=donut&hide_border=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stuartasiimwe7&theme=tokyonight&no-frame=true&column=3&row=2" height="250" alt="@goldenfinix's trophy stats"/>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
