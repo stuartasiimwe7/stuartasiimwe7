@@ -13,9 +13,9 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 - 🔭 I’m currently working on [AI-Based Cybersecurity (xAI)](https://github.com/stuartasiimwe7/SHAP-Based-Feature-Selection-in-Ensemble-Classifiers)
 
-- 👯 I’m looking to collaborate on **ML Research Projects**
+- 👯 I’m looking to collaborate on **DevSecOps Projects**
 
-- 👨‍💻 To know more about experience, checkout my portfolio at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io) or 📄 [www.stuartasiim.web.app](www.stuartasiim.web.app)
+- 👨‍💻 To know more about experience, checkout my portfolio at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io)
 
 - 📝 I also plan to regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
 
