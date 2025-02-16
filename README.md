@@ -1,6 +1,7 @@
 <h1 align="center">Hullo there 👋, You're welcome</h1>
 <h3 align="center">Now, you are on Holy Ground!</h3>
 
+
 <h1>I'm Stuart Asiimwe</h1>
 
 ### Software Engineer | AI Enthusiast
@@ -89,23 +90,16 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/stuartasiimwe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stuartasiimwe7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartasiimwe" height="30" width="40" /></a>
-<a href="https://kaggle.com/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stuartasiimwe" height="30" width="40" /></a>
-<a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a>
+<div align="left">
+<a href="https://hackerrank.com/stuartasiimwe" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>  <a href="https://dev.to/stuartasiimwe7" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  /></a>  <a href="https://kaggle.com/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stuartasiimwe" height="30" width="40" /></a>  <a href="https://medium.com/@stuart7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stuart7" height="30" width="40" /></a> <a href="https://linkedin.com/in/stuartasiimwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartasiimwe" height="30" width="40" /></a>
+</div>
+
 </p>
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on exciting projects. Cheers!
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-</div>
+
 
 ###
 <p>
