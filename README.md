@@ -2,7 +2,7 @@
 <h3 align="center">Now, you are on Holy Ground!</h3>
 
 
-<h1>I'm Stuart</h1>
+<h1>I'm Stuart Asiimwe</h1>
 
 ### Software Engineer | AI Enthusiast
 ![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
