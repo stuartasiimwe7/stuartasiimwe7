@@ -1,6 +1,6 @@
 <h1 align="center">Hullo there 👋, You're welcome</h1>
 
-<h1>I'm Stuart</h1>
+<h1>I'm Stuart Asiimwe</h1>
 
 ### Software Engineer | AI Enthusiast
 ![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
@@ -55,6 +55,7 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 </p>
 
+
 Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on exciting projects. Cheers!
 
 ---
@@ -62,6 +63,7 @@ Thank you for visiting my profile! Feel free to reach out if you have any questi
 ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
 ~ C.A.R. Hoare
 </p>
+
 
 
 
