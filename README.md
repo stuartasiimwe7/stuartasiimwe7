@@ -25,7 +25,7 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 | Category              | Technologies                                                 |
 |-----------------------|--------------------------------------------------------------|
-| Languages             | Python, JavaScript, TypeScript, C|C++                        |
+| Languages             | Python, JavaScript, TypeScript, C\|C++                        |
 | Frontend              | React, Next.js, Vue.js                                       |
 | Backend               | Node.js with Express, Flask/Django                           |
 | Databases             | PostgreSQL, MySQL, MongoDB                                   |
