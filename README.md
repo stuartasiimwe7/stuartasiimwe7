@@ -25,11 +25,11 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 
 | Category              | Technologies                                                 |
 |-----------------------|--------------------------------------------------------------|
-| Languages             | Python, JavaScript, C\|C++                                   |
+| Languages             | Python, JavaScript, C++                                      |
 | Frontend              | React, Next.js                                               |
-| Backend               | Node.js with Express, Flask/Django                           |
+| Backend               | Node.js with Express                                         |
 | Databases             | PostgreSQL, MySQL, MongoDB                                   |
-| AI & Machine Learning | TensorFlow, PyTorch, Scikit-learn, OpenCV,                   |
+| AI & Machine Learning | TensorFlow, Scikit-learn, OpenCVnn                           |
 | Cloud & DevOps        | AWS, Git, Docker, K8s, Prometheus, Grafana                   |
 | OS                    | Linux: (Ubuntu and Fedora )                                  |
 
