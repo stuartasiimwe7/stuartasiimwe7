@@ -29,7 +29,7 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 | Frontend              | React, Next.js                                               |
 | Backend               | Node.js with Express                                         |
 | Databases             | PostgreSQL, MySQL, MongoDB                                   |
-| AI & Machine Learning | TensorFlow, Scikit-learn, OpenCVnn                           |
+| AI & Machine Learning | TensorFlow, Scikit-learn, OpenCV                             |
 | Cloud & DevOps        | AWS, Git, Docker, K8s, Prometheus, Grafana                   |
 | OS                    | Linux: (Ubuntu and Fedora )                                  |
 
