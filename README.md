@@ -1,9 +1,4 @@
-<h1 align="center">Hullo there, You're welcome</h1>
-
-<h1>I'm Stuart Asiimwe</h1>
-
-### Software Engineer
-![Software Engineer | ML/AI Enthusiast](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
+![SWE](https://pbs.twimg.com/profile_banners/461860879/1627549917/1080x360)
 
 <p align="left"> <a href="https://twitter.com/stuartasiimwe7" target="blank"><img src="https://img.shields.io/twitter/follow/stuartasiimwe7?logo=twitter&style=for-the-badge" alt="stuartasiimwe7" /></a> </p>
 
