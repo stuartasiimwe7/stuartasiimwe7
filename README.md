@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/stuartasiimwe7" target="blank"><img src="https://img.shields.io/twitter/follow/stuartasiimwe7?logo=twitter&style=for-the-badge" alt="stuartasiimwe7" /></a> </p>
 
-I am a Performance-driven and results oriented Software Engineer, with a relentless pursuit for excellence, ensuring that I successfully finish all goals and objectives within budget and schedule.
-
 - 🔭 I’m currently working on [AI-Based Cybersecurity (xAI)](https://github.com/stuartasiimwe7/SHAP-Based-Feature-Selection-in-Ensemble-Classifiers)
-
-- 👯 I’m looking to collaborate on **DevSecOps Projects**
-
-- 👨‍💻 To know more about experience, checkout my portfolio at [https://stuartasiimwe7.github.io](https://stuartasiimwe7.github.io)
 
 - 📝 I also plan to regularly write tech articles on [https://medium.com/@stuart7](https://medium.com/@stuart7)
 
@@ -54,10 +48,6 @@ I am a Performance-driven and results oriented Software Engineer, with a relentl
 </div>
 
 </p>
-
-
-Thank you for visiting my profile! Feel free to reach out if you have any questions or would like to collaborate on exciting projects. Cheers!
-
 ---
 <p>
 ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
