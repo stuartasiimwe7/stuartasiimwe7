@@ -32,7 +32,7 @@
 
 <!-- Coloured Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"><br><br>
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://hackerrank.com/stuartasiimwe" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>  
@@ -44,6 +44,7 @@
 
 </p>
 ---
+--->
 <p>
 ⚡ “The most important property of a program is whether it accomplishes the intention of its user.”
 ~ C.A.R. Hoare
